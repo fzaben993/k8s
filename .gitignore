@@ -1,0 +1,4 @@
+.vagrant
+Makefile
+vm_config.yml
+.env
